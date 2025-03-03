@@ -6,4 +6,4 @@ completion = client.chat.completions.create(
         {"role": "user", "content": "write a haiku about ai"}
     ]
 )
-
+print("hello")
